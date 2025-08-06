@@ -1,0 +1,9 @@
+body {
+    width: 1440px 3439px;
+}
+
+#page {
+    box-sizing: border-box;
+    width: 1120px;
+    margin: 88px auto 80px;
+}
