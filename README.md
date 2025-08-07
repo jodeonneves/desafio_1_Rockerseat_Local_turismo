@@ -29,7 +29,7 @@ Google Fonts (Open Sans)
 As imagens utilizadas foram selecionadas para representar o local turístico escolhido, trazendo mais vida e contexto para a página.
 
 🚀 Como visualizar
-Você pode visualizar o projeto, clone o repositório para sua maquina, abra o arquivo index.html em qualquer navegador.
+Você pode visualizar o projeto, clone o repositório para sua maquina, ou faça o download zip e extraia os arquivos e execute o index.html em qualquer navegador.
 
 💡 Aprendizados
 Durante o desenvolvimento deste desafio, pratiquei:
