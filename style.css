@@ -1,3 +1,9 @@
+:root {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+
+}
+
 body {
     width: 1440px 3439px;
 }
@@ -6,4 +12,44 @@ body {
     box-sizing: border-box;
     width: 1120px;
     margin: 88px auto 80px;
+    background-color: #F5F4F0;
+}
+
+section#title_page, section#title p {
+    color: #E1624F;
+}
+
+h1 {
+    font-size: 36px;
+    color: #1B1B1B;
+}
+
+h2 {
+    font-size: 32px;
+    color: #333333;
+}
+
+h3 {
+    font-size: 28px;
+    color: #696969;
+}
+
+section#card_1 a {
+    color: #0C51A7;
+}
+
+section#card_2 a {
+    color: #0C51A7;
+}
+
+#casais a {
+    color: #E95E10;
+}
+
+#familia a {
+   color: #E5245E; 
+}
+
+#orcamento a {
+    color: #591B98;
 }
